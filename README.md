@@ -164,7 +164,7 @@ Install dependencies
   npm install
 ```
 
-Update for Pull Shark test.
+Update for Pull Shark tests.
 
 Set up environment variables:
 
