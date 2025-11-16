@@ -164,6 +164,8 @@ Install dependencies
   npm install
 ```
 
+Update for Pull Shark test.
+
 Set up environment variables:
 
     * .env - environment variables for this project to run in development environment (fill with actual values for environment variables)
